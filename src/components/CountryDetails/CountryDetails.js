@@ -30,13 +30,14 @@ const CountryDetails = () => {
         width:'300px',
         height:'auto',
         border:'1px solid black',
-        margin:'10px',
+        margin:'10px auto',
         padding:' 10px 15px 10px 15px',
         borderRadius:"10px",
         textAlign:'center',
         background:'gray' ,
         color:'white',
-        fontSize:'18px'
+        fontSize:'18px',
+
     }
 
     return (
